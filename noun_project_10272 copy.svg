@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
+<g id="Captions" display="none">
+</g>
+<g id="Your_Icon">
+	<path d="M44,4h-8v5h2v13v4c0,1.439,0.561,2,2,2s2-0.561,2-2v-4V9h2V4z"/>
+	<path d="M49,0v2v2h-3v7h-2v11h5c1.104,0,2-0.896,2-2V0H49z"/>
+	<rect x="41" width="2" height="2"/>
+	<rect x="45" width="2" height="2"/>
+	<rect x="37" width="2" height="2"/>
+	<path d="M36,11h-2V4h-3V2V0h-2v20c0,1.104,0.895,2,2,2h5V11z"/>
+	<rect x="33" width="2" height="2"/>
+	<path d="M77,54v22.667c0,9.374-7.626,17-17,17s-17-6.729-17-15V28.894C42.316,29.611,41.304,30,40,30s-2.317-0.389-3-1.105v49.772   c0,11.579,10.317,21,23,21s23-10.317,23-23V54c0-9.374,7.626-17,17-17v-6C87.317,31,77,41.318,77,54z"/>
+</g>
+</svg>
